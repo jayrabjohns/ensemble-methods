@@ -26,13 +26,13 @@ Accuracy: 0.9333333333333333
 ```
 
 ### Voting Classifier (hard)
-Using ensemble made from logistic regression, random forest, and support vector machines.
+Using an ensemble made from logistic regression, random forest, and support vector machines.
 ```
 Accuracy: 0.98
 ```
 
 ### Soft Voting Classifier 
-Using ensemble made from logistic regression, random forest, and support vector machines.
+Using an ensemble made from logistic regression, random forest, and support vector machines.
 ```
 Accuracy: 0.9822222222222222
 ```
